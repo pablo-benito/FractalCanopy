@@ -90,18 +90,3 @@ function windowResized() {
   resizeCanvas(windowWidth, HEIGHT);
 }
 
-
-function touchMoved(event) {
-
-  xoffset += (pmouseX - mouseX);
-  yoffset += (pmouseY - mouseY);
-  return false;
-
-}
-
-function mouseWheel(event) {
-  
-  baseZoom += event.deltaY/1000;
-  baseZoom = constrain(baseZoom, -0.2, 0.8);
-
-}
