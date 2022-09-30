@@ -1,5 +1,5 @@
-# N-body simulator
+# Fractal canopy
 
-Watch it online: [https://pablo-benito.github.io/n-body/](https://pablo-benito.github.io/n-body/)
+Watch it online: [https://pablo-benito.github.io/FractalCanopy/](https://pablo-benito.github.io/FractalCanopy/)
  
 
